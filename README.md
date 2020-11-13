@@ -21,3 +21,7 @@ Refer : https://morioh.com/p/a9ec38a35c23?f=5c492728f538881a2158699f
 2. react-lazy-load-image-component ==>Lazy loading
 
 3. To implement the design view
+
+# useEffect
+
+If component loaded successfully then useEffect lifecycle will execute.
