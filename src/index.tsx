@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from "./App";
 import GetCountries from "./GetCountries";
 import reportWebVitals from "./reportWebVitals";
 

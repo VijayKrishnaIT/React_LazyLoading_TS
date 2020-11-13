@@ -25,3 +25,14 @@ Refer : https://morioh.com/p/a9ec38a35c23?f=5c492728f538881a2158699f
 # useEffect
 
 If component loaded successfully then useEffect lifecycle will execute.
+
+# LazyLoadImage
+
+<LazyLoadImage
+            src={element.flag}
+            width="100"
+            height="50"
+            effect="blur"
+                />
+
+            effects can be "blur" or "black-and-white"
